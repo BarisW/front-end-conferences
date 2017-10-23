@@ -144,6 +144,10 @@ Paris, **France**
 24-25 May 2018  
 Warsaw, **Poland**  
 
+[**Frontend United**](https://frontendunited.org/)  
+31 May - 3 June 2018  
+Utrecht, **The Netherlands**  
+
 ## Middle East
 
 [**You Gotta Love Frontend**](https://www.yougottalovefrontend.com/)  
